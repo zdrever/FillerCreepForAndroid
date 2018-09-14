@@ -6,99 +6,99 @@
     density="420dpi"
     format="10"
     plugin-version="3.1.4"
-    timestamp="1536715213003"
-    token="3374092301684800068"
+    timestamp="1536942825234"
+    token="-2647835488675247444"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="2173" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="295" />
+        duration="116" />
     <task
         name="verifier"
-        duration="164" />
+        duration="40" />
 
     <artifact
-        location="/afs/ualberta.ca/home/z/d/zdrever/cmput301/Lab1/FillerCreepForAndroid/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+        location="/Users/zachdrever/Documents/School/CMPUT301/Lab1/FillerCreepForAndroid/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
         type="SPLIT" />
     <artifact
-        location="/afs/ualberta.ca/home/z/d/zdrever/cmput301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        location="/Users/zachdrever/Documents/School/CMPUT301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
         type="SPLIT" />
     <artifact
-        location="/afs/ualberta.ca/home/z/d/zdrever/cmput301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        location="/Users/zachdrever/Documents/School/CMPUT301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
         type="SPLIT" />
     <artifact
-        location="/afs/ualberta.ca/home/z/d/zdrever/cmput301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+        location="/Users/zachdrever/Documents/School/CMPUT301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
         type="SPLIT" />
     <artifact
-        location="/afs/ualberta.ca/home/z/d/zdrever/cmput301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        location="/Users/zachdrever/Documents/School/CMPUT301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
         type="SPLIT" />
     <artifact
-        location="/afs/ualberta.ca/home/z/d/zdrever/cmput301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        location="/Users/zachdrever/Documents/School/CMPUT301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
         type="SPLIT" />
     <artifact
-        location="/afs/ualberta.ca/home/z/d/zdrever/cmput301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+        location="/Users/zachdrever/Documents/School/CMPUT301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
         type="SPLIT" />
     <artifact
-        location="/afs/ualberta.ca/home/z/d/zdrever/cmput301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        location="/Users/zachdrever/Documents/School/CMPUT301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
         type="SPLIT" />
     <artifact
-        location="/afs/ualberta.ca/home/z/d/zdrever/cmput301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        location="/Users/zachdrever/Documents/School/CMPUT301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
         type="SPLIT" />
     <artifact
-        location="/afs/ualberta.ca/home/z/d/zdrever/cmput301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+        location="/Users/zachdrever/Documents/School/CMPUT301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
         type="SPLIT" />
     <artifact
-        location="/afs/ualberta.ca/home/z/d/zdrever/cmput301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+        location="/Users/zachdrever/Documents/School/CMPUT301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
         type="SPLIT" />
     <artifact
-        location="/afs/ualberta.ca/home/z/d/zdrever/cmput301/Lab1/FillerCreepForAndroid/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
+        location="/Users/zachdrever/Documents/School/CMPUT301/Lab1/FillerCreepForAndroid/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1536715213003"
+        timestamp="1536942825234"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/afs/ualberta.ca/home/z/d/zdrever/cmput301/Lab1/FillerCreepForAndroid/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+            location="/Users/zachdrever/Documents/School/CMPUT301/Lab1/FillerCreepForAndroid/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
             type="SPLIT" />
         <artifact
-            location="/afs/ualberta.ca/home/z/d/zdrever/cmput301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            location="/Users/zachdrever/Documents/School/CMPUT301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/afs/ualberta.ca/home/z/d/zdrever/cmput301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            location="/Users/zachdrever/Documents/School/CMPUT301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="/afs/ualberta.ca/home/z/d/zdrever/cmput301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            location="/Users/zachdrever/Documents/School/CMPUT301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="/afs/ualberta.ca/home/z/d/zdrever/cmput301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            location="/Users/zachdrever/Documents/School/CMPUT301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="/afs/ualberta.ca/home/z/d/zdrever/cmput301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            location="/Users/zachdrever/Documents/School/CMPUT301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="/afs/ualberta.ca/home/z/d/zdrever/cmput301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            location="/Users/zachdrever/Documents/School/CMPUT301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="/afs/ualberta.ca/home/z/d/zdrever/cmput301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            location="/Users/zachdrever/Documents/School/CMPUT301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="/afs/ualberta.ca/home/z/d/zdrever/cmput301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            location="/Users/zachdrever/Documents/School/CMPUT301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="/afs/ualberta.ca/home/z/d/zdrever/cmput301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            location="/Users/zachdrever/Documents/School/CMPUT301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="/afs/ualberta.ca/home/z/d/zdrever/cmput301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            location="/Users/zachdrever/Documents/School/CMPUT301/Lab1/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="/afs/ualberta.ca/home/z/d/zdrever/cmput301/Lab1/FillerCreepForAndroid/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
+            location="/Users/zachdrever/Documents/School/CMPUT301/Lab1/FillerCreepForAndroid/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
 
